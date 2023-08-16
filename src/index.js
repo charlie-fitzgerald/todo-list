@@ -1,4 +1,3 @@
-import { ToDoFactory } from "./todoFactoryModule";
 import { mainPageLoad } from "./mainPageModule";
 import './style.css';
 
